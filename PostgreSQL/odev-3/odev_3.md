@@ -19,11 +19,10 @@ film isimlerini sıralayınız.
 ```
 ```PostgreSQL
 * 2) SELECT country FROM country WHERE country LIKE '______%n';
-
 ```
 ```PostgreSQL
 * 3) SELECT title FROM film WHERE title ILIKE '%tttt%';
 ```
 ```PostgreSQL
-* 3) SELECT * FROM film WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
+* 4) SELECT * FROM film WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 ```
