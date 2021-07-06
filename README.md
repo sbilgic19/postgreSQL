@@ -1,1 +1,2 @@
-# Patika.dev SQL Course [link](https://www.patika.dev)
+# Patika.dev SQL Course
+Click [this link](https://www.patika.dev) visit the website
